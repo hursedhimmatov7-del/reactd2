@@ -132,3 +132,9 @@ font-weight: 500;
     display: flex;
     gap: 8px;
 }
+.fa-telegram{
+    color: rgb(56, 56, 255);
+}
+.fa-pen-to-square{
+    color: rgb(56, 185, 255);
+}
